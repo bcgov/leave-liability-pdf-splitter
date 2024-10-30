@@ -1,11 +1,11 @@
 # leave-liability-pdf-splitter
 Splits PDFs from leave liability into individual files
 
-## Dependent Python Libraries
-PyPDF2
-re
-glob
-logging
+## Dependent Python 3 Libraries
+* PyPDF2
+* re
+* glob
+* logging
 
 ## How to use
 Put all the PDF files received from the HR department inside the `./input` folder.
