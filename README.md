@@ -1,5 +1,5 @@
-# wlrs-resume-splitter
-Splits PDFs from HRs into individual files
+# leave-liability-pdf-splitter
+Splits PDFs from leave liability into individual files
 
 ## How to use
 Put all the PDF files received from the HR department inside the `./input` folder.
